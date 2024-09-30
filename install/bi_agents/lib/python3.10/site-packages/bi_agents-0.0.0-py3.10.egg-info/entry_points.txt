@@ -1,0 +1,3 @@
+[console_scripts]
+bi_agent = bi_agents.bi_agent:main
+

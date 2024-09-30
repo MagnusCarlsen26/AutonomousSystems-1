@@ -1,0 +1,24 @@
+[0.979s] Invoking command in '/home/khushal/campus_tour_ws/src/visitor_agents': PYTHONPATH=/home/khushal/campus_tour_ws/build/visitor_agents/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khushal/campus_tour_ws/install/visitor_agents/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/visitor_agents build --build-base /home/khushal/campus_tour_ws/build/visitor_agents/build install --record /home/khushal/campus_tour_ws/build/visitor_agents/install.log --single-version-externally-managed install_data
+[1.165s] running egg_info
+[1.165s] writing ../../build/visitor_agents/visitor_agents.egg-info/PKG-INFO
+[1.165s] writing dependency_links to ../../build/visitor_agents/visitor_agents.egg-info/dependency_links.txt
+[1.166s] writing entry points to ../../build/visitor_agents/visitor_agents.egg-info/entry_points.txt
+[1.166s] writing requirements to ../../build/visitor_agents/visitor_agents.egg-info/requires.txt
+[1.166s] writing top-level names to ../../build/visitor_agents/visitor_agents.egg-info/top_level.txt
+[1.167s] reading manifest file '../../build/visitor_agents/visitor_agents.egg-info/SOURCES.txt'
+[1.168s] writing manifest file '../../build/visitor_agents/visitor_agents.egg-info/SOURCES.txt'
+[1.168s] running build
+[1.169s] running build_py
+[1.169s] copying visitor_agents/visitor_agent.py -> /home/khushal/campus_tour_ws/build/visitor_agents/build/lib/visitor_agents
+[1.169s] running install
+[1.170s] running install_lib
+[1.170s] copying /home/khushal/campus_tour_ws/build/visitor_agents/build/lib/visitor_agents/visitor_agent.py -> /home/khushal/campus_tour_ws/install/visitor_agents/lib/python3.10/site-packages/visitor_agents
+[1.171s] byte-compiling /home/khushal/campus_tour_ws/install/visitor_agents/lib/python3.10/site-packages/visitor_agents/visitor_agent.py to visitor_agent.cpython-310.pyc
+[1.171s] running install_data
+[1.171s] running install_egg_info
+[1.172s] removing '/home/khushal/campus_tour_ws/install/visitor_agents/lib/python3.10/site-packages/visitor_agents-0.0.0-py3.10.egg-info' (and everything under it)
+[1.173s] Copying ../../build/visitor_agents/visitor_agents.egg-info to /home/khushal/campus_tour_ws/install/visitor_agents/lib/python3.10/site-packages/visitor_agents-0.0.0-py3.10.egg-info
+[1.173s] running install_scripts
+[1.191s] Installing visitor_agent script to /home/khushal/campus_tour_ws/install/visitor_agents/lib/visitor_agents
+[1.191s] writing list of installed files to '/home/khushal/campus_tour_ws/build/visitor_agents/install.log'
+[1.231s] Invoked command in '/home/khushal/campus_tour_ws/src/visitor_agents' returned '0': PYTHONPATH=/home/khushal/campus_tour_ws/build/visitor_agents/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khushal/campus_tour_ws/install/visitor_agents/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/visitor_agents build --build-base /home/khushal/campus_tour_ws/build/visitor_agents/build install --record /home/khushal/campus_tour_ws/build/visitor_agents/install.log --single-version-externally-managed install_data

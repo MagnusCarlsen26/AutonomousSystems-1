@@ -1,0 +1,5 @@
+  File "/home/khushal/campus_tour_ws/install/ci_agents/lib/python3.10/site-packages/ci_agents/ci_agent.py", line 60
+    request["biAgentNo."] = f"biAgentNo.{request["hostNo"][7:]}"
+                                                  ^^^^^^
+SyntaxError: f-string: unmatched '['
+

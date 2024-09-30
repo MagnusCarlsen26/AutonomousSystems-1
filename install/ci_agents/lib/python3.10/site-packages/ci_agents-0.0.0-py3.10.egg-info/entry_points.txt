@@ -1,0 +1,3 @@
+[console_scripts]
+ci_agent = ci_agents.ci_agent:main
+

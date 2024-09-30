@@ -1,0 +1,29 @@
+[1.077s] Invoking command in '/home/khushal/campus_tour_ws/src/ci_agents': PYTHONPATH=/home/khushal/campus_tour_ws/build/ci_agents/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khushal/campus_tour_ws/install/ci_agents/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ci_agents build --build-base /home/khushal/campus_tour_ws/build/ci_agents/build install --record /home/khushal/campus_tour_ws/build/ci_agents/install.log --single-version-externally-managed install_data
+[1.312s] running egg_info
+[1.313s] writing ../../build/ci_agents/ci_agents.egg-info/PKG-INFO
+[1.313s] writing dependency_links to ../../build/ci_agents/ci_agents.egg-info/dependency_links.txt
+[1.313s] writing entry points to ../../build/ci_agents/ci_agents.egg-info/entry_points.txt
+[1.314s] writing requirements to ../../build/ci_agents/ci_agents.egg-info/requires.txt
+[1.314s] writing top-level names to ../../build/ci_agents/ci_agents.egg-info/top_level.txt
+[1.316s] reading manifest file '../../build/ci_agents/ci_agents.egg-info/SOURCES.txt'
+[1.317s] writing manifest file '../../build/ci_agents/ci_agents.egg-info/SOURCES.txt'
+[1.318s] running build
+[1.318s] running build_py
+[1.318s] copying ci_agents/ci_agent.py -> /home/khushal/campus_tour_ws/build/ci_agents/build/lib/ci_agents
+[1.318s] running install
+[1.319s] running install_lib
+[1.320s] copying /home/khushal/campus_tour_ws/build/ci_agents/build/lib/ci_agents/ci_agent.py -> /home/khushal/campus_tour_ws/install/ci_agents/lib/python3.10/site-packages/ci_agents
+[1.321s] byte-compiling /home/khushal/campus_tour_ws/install/ci_agents/lib/python3.10/site-packages/ci_agents/ci_agent.py to ci_agent.cpython-310.pyc
+[1.322s]   File "/home/khushal/campus_tour_ws/install/ci_agents/lib/python3.10/site-packages/ci_agents/ci_agent.py", line 71
+[1.322s]     print(ciAgentNo.{i})
+[1.322s]                     ^
+[1.322s] SyntaxError: invalid syntax
+[1.322s] 
+[1.322s] running install_data
+[1.322s] running install_egg_info
+[1.324s] removing '/home/khushal/campus_tour_ws/install/ci_agents/lib/python3.10/site-packages/ci_agents-0.0.0-py3.10.egg-info' (and everything under it)
+[1.324s] Copying ../../build/ci_agents/ci_agents.egg-info to /home/khushal/campus_tour_ws/install/ci_agents/lib/python3.10/site-packages/ci_agents-0.0.0-py3.10.egg-info
+[1.325s] running install_scripts
+[1.347s] Installing ci_agent script to /home/khushal/campus_tour_ws/install/ci_agents/lib/ci_agents
+[1.347s] writing list of installed files to '/home/khushal/campus_tour_ws/build/ci_agents/install.log'
+[1.403s] Invoked command in '/home/khushal/campus_tour_ws/src/ci_agents' returned '0': PYTHONPATH=/home/khushal/campus_tour_ws/build/ci_agents/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khushal/campus_tour_ws/install/ci_agents/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ci_agents build --build-base /home/khushal/campus_tour_ws/build/ci_agents/build install --record /home/khushal/campus_tour_ws/build/ci_agents/install.log --single-version-externally-managed install_data

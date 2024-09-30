@@ -1,0 +1,24 @@
+[1.019s] Invoking command in '/home/khushal/campus_tour_ws/src/bi_agents': PYTHONPATH=/home/khushal/campus_tour_ws/build/bi_agents/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khushal/campus_tour_ws/install/bi_agents/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bi_agents build --build-base /home/khushal/campus_tour_ws/build/bi_agents/build install --record /home/khushal/campus_tour_ws/build/bi_agents/install.log --single-version-externally-managed install_data
+[1.210s] running egg_info
+[1.210s] writing ../../build/bi_agents/bi_agents.egg-info/PKG-INFO
+[1.210s] writing dependency_links to ../../build/bi_agents/bi_agents.egg-info/dependency_links.txt
+[1.211s] writing entry points to ../../build/bi_agents/bi_agents.egg-info/entry_points.txt
+[1.211s] writing requirements to ../../build/bi_agents/bi_agents.egg-info/requires.txt
+[1.211s] writing top-level names to ../../build/bi_agents/bi_agents.egg-info/top_level.txt
+[1.212s] reading manifest file '../../build/bi_agents/bi_agents.egg-info/SOURCES.txt'
+[1.213s] writing manifest file '../../build/bi_agents/bi_agents.egg-info/SOURCES.txt'
+[1.213s] running build
+[1.214s] running build_py
+[1.214s] copying bi_agents/bi_agent.py -> /home/khushal/campus_tour_ws/build/bi_agents/build/lib/bi_agents
+[1.214s] running install
+[1.214s] running install_lib
+[1.214s] copying /home/khushal/campus_tour_ws/build/bi_agents/build/lib/bi_agents/bi_agent.py -> /home/khushal/campus_tour_ws/install/bi_agents/lib/python3.10/site-packages/bi_agents
+[1.215s] byte-compiling /home/khushal/campus_tour_ws/install/bi_agents/lib/python3.10/site-packages/bi_agents/bi_agent.py to bi_agent.cpython-310.pyc
+[1.216s] running install_data
+[1.216s] running install_egg_info
+[1.217s] removing '/home/khushal/campus_tour_ws/install/bi_agents/lib/python3.10/site-packages/bi_agents-0.0.0-py3.10.egg-info' (and everything under it)
+[1.218s] Copying ../../build/bi_agents/bi_agents.egg-info to /home/khushal/campus_tour_ws/install/bi_agents/lib/python3.10/site-packages/bi_agents-0.0.0-py3.10.egg-info
+[1.219s] running install_scripts
+[1.234s] Installing bi_agent script to /home/khushal/campus_tour_ws/install/bi_agents/lib/bi_agents
+[1.234s] writing list of installed files to '/home/khushal/campus_tour_ws/build/bi_agents/install.log'
+[1.258s] Invoked command in '/home/khushal/campus_tour_ws/src/bi_agents' returned '0': PYTHONPATH=/home/khushal/campus_tour_ws/build/bi_agents/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khushal/campus_tour_ws/install/bi_agents/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bi_agents build --build-base /home/khushal/campus_tour_ws/build/bi_agents/build install --record /home/khushal/campus_tour_ws/build/bi_agents/install.log --single-version-externally-managed install_data

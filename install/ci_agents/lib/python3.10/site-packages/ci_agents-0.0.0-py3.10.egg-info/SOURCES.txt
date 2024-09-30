@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/ci_agents/ci_agents.egg-info/PKG-INFO
+../../build/ci_agents/ci_agents.egg-info/SOURCES.txt
+../../build/ci_agents/ci_agents.egg-info/dependency_links.txt
+../../build/ci_agents/ci_agents.egg-info/entry_points.txt
+../../build/ci_agents/ci_agents.egg-info/requires.txt
+../../build/ci_agents/ci_agents.egg-info/top_level.txt
+../../build/ci_agents/ci_agents.egg-info/zip-safe
+ci_agents/__init__.py
+ci_agents/ci_agent.py
+resource/ci_agents
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

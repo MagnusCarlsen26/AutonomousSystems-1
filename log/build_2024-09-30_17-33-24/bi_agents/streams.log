@@ -1,0 +1,21 @@
+[0.954s] Invoking command in '/home/khushal/campus_tour_ws/src/bi_agents': PYTHONPATH=/home/khushal/campus_tour_ws/build/bi_agents/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khushal/campus_tour_ws/install/bi_agents/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bi_agents build --build-base /home/khushal/campus_tour_ws/build/bi_agents/build install --record /home/khushal/campus_tour_ws/build/bi_agents/install.log --single-version-externally-managed install_data
+[0.984s] Traceback (most recent call last):
+[0.984s]   File "/home/khushal/campus_tour_ws/src/bi_agents/setup.py", line 1, in <module>
+[0.984s]     from setuptools import find_packages, setup
+[0.984s]   File "/usr/lib/python3/dist-packages/setuptools/__init__.py", line 10, in <module>
+[0.985s]     import distutils.core
+[0.985s]   File "/usr/lib/python3.10/distutils/core.py", line 17, in <module>
+[0.985s]     from distutils.cmd import Command
+[0.985s]   File "/usr/lib/python3.10/distutils/cmd.py", line 9, in <module>
+[0.986s]     from distutils import util, dir_util, file_util, archive_util, dep_util
+[0.986s]   File "/usr/lib/python3.10/distutils/archive_util.py", line 11, in <module>
+[0.986s]     import zipfile
+[0.986s]   File "/usr/lib/python3.10/zipfile.py", line 20, in <module>
+[0.986s]     import pathlib
+[0.986s]   File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+[0.987s]   File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+[0.987s]   File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+[0.987s]   File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+[0.987s]   File "<frozen importlib._bootstrap_external>", line 1012, in get_code
+[0.987s]   File "<frozen importlib._bootstrap_external>", line 672, in _compile_bytecode
+[0.987s] KeyboardInterrupt

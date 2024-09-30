@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/visitor_agents/visitor_agents.egg-info/PKG-INFO
+writing dependency_links to ../../build/visitor_agents/visitor_agents.egg-info/dependency_links.txt
+writing entry points to ../../build/visitor_agents/visitor_agents.egg-info/entry_points.txt
+writing requirements to ../../build/visitor_agents/visitor_agents.egg-info/requires.txt
+writing top-level names to ../../build/visitor_agents/visitor_agents.egg-info/top_level.txt
+reading manifest file '../../build/visitor_agents/visitor_agents.egg-info/SOURCES.txt'
+writing manifest file '../../build/visitor_agents/visitor_agents.egg-info/SOURCES.txt'
+running build
+running build_py
+copying visitor_agents/visitor_agent.py -> /home/khushal/campus_tour_ws/build/visitor_agents/build/lib/visitor_agents
+running install
+running install_lib
+copying /home/khushal/campus_tour_ws/build/visitor_agents/build/lib/visitor_agents/visitor_agent.py -> /home/khushal/campus_tour_ws/install/visitor_agents/lib/python3.10/site-packages/visitor_agents
+byte-compiling /home/khushal/campus_tour_ws/install/visitor_agents/lib/python3.10/site-packages/visitor_agents/visitor_agent.py to visitor_agent.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/khushal/campus_tour_ws/install/visitor_agents/lib/python3.10/site-packages/visitor_agents-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/visitor_agents/visitor_agents.egg-info to /home/khushal/campus_tour_ws/install/visitor_agents/lib/python3.10/site-packages/visitor_agents-0.0.0-py3.10.egg-info
+running install_scripts
+Installing visitor_agent script to /home/khushal/campus_tour_ws/install/visitor_agents/lib/visitor_agents
+writing list of installed files to '/home/khushal/campus_tour_ws/build/visitor_agents/install.log'
