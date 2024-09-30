@@ -35,7 +35,7 @@ class BIAgent(Node):
         self.penalty = 0
         
     def getOOS(self):
-        if random.random()>0.5 :
+        if random.random()<0.01 :
             self.OOS_duration = random.randint(1,10)
             self.isOOS = True
 
@@ -137,3 +137,15 @@ def main(args=None):
 
 if __name__ == '__main__':
     main()
+
+
+
+
+
+
+
+
+
+
+
+## Trial 1

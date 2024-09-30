@@ -5,6 +5,7 @@ import json
 from std_msgs.msg import String
 import random
 import time
+
 class VisitorAgent(Node):
     def __init__(self,visitorNo,host,ciAgentNo,meeting_duration):
         super().__init__('visitor_agent')

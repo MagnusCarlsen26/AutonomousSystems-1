@@ -65,7 +65,7 @@ class CIAgent(Node):
         if request["ciAgentNo."] != self.ciAgentNo:
             return
 
-        if random.random()<0.3:
+        if random.random()<0.1:
             print("CI not returning to escort visitor")
             self.violation += 1
             return
